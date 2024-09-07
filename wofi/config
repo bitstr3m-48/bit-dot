@@ -1,0 +1,8 @@
+[wofi]
+show-icons = true
+columns = 1
+prompt = Run: 
+drun-use-desktop-cache = true
+drun-icon-theme = Papirus
+width = 600
+height = 400
