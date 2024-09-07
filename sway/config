@@ -22,7 +22,7 @@ set $term alacritty
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg ~/Downloads/h-p-lovecraft-the-kraken-3440x1440-v0-iu1v30kizhjb1.png fill
+output * bg ~/Pictures/Wallpapers/h-p-lovecraft-the-kraken-3440x1440-v0-iu1v30kizhjb1.png fill
 #
 # Example configuration:
 #
